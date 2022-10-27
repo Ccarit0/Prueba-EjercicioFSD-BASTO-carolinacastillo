@@ -1,0 +1,26 @@
+{
+  "name": "prueba-ejerciciofsd-basto-carolinacastillo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ccarit0/Prueba-EjercicioFSD-BASTO-carolinacastillo.git"
+  },
+  "author": "Carolina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ccarit0/Prueba-EjercicioFSD-BASTO-carolinacastillo/issues"
+  },
+  "homepage": "https://github.com/Ccarit0/Prueba-EjercicioFSD-BASTO-carolinacastillo#readme",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
+    "mongoose": "^6.6.5",
+    "nodemon": "^2.0.20"
+  }
+}
